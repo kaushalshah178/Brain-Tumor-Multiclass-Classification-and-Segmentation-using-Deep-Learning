@@ -20,6 +20,11 @@ This dataset contains 7023 images of human brain MRI images which are classified
 Each MRI image is 1 channel Gray-scale image with dimension 512x512.
 
 ## Glioma, Meningioma, Pituitary and No tumor MRI images
+In the classification step, a Convolution Neural Network (CNN) model, based on Imagenet architecture, is used to classify the MRI Brain scans into four classes Glioma, Meningioma, Pituitary and no tumor
+
+
+For the classification purpose by using transfer learning efficientnetB1 architecture of imagenet is used.This function returns a Keras image classification model, optionally loaded with weights pre-trained on Imagenet.
+
 <img src="images/p3.png" alt="Project Pipeline" width="1500" height="800">
 
 ## EfficientB1 Imagenet Architecture
