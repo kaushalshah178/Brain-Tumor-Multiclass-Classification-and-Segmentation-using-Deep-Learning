@@ -71,7 +71,7 @@ U-Net is a convolutional neural network that was developed for biomedical image 
 <img src="images/p12.png" alt="Project Pipeline" width="1000" height="400">
 
 ## Segmentation results
-<img src="images/p13.png" alt="Project Pipeline" width="1500" height="1000">
+<img src="images/p13.png" alt="Project Pipeline" width="1500" height="600">
 
 
 
