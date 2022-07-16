@@ -13,7 +13,7 @@
 
 ## Dataset
 
-[Dataset source](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/)
+[Brain Tumor Multiclass classificationDataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/)
 
 #This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: Glioma, Meningioma, Pituitary and No tumor.\\
 
