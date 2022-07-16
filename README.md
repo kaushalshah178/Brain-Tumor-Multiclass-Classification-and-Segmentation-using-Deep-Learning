@@ -9,7 +9,7 @@ A brain tumor is a mass of tissue in which the cells multiply uncontrollably. It
 
 <img src="images/pipeline.png" alt="Project Pipeline" width="1500" height="600">
 
-# 1. Brain Tumor Multiclass Classification
+# 1. Brain Tumor Multiclass Classification of MRI Images
 
 ## Dataset
 
@@ -33,7 +33,7 @@ For the classification purpose by using transfer learning efficientnetB1 archite
 ## Model Performance
 <img src="images/p9.png" alt="Project Pipeline" width="1000" height="400">
 
-# 1. Brain Tumor Segmentation
+# 2. Brain Tumor Segmentation of MRI images
 
 ## Dataset
 
