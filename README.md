@@ -50,7 +50,6 @@ In the classification step, a Convolution Neural Network (CNN) model, based on I
 
 For the classification purpose by using transfer learning efficientnetB1 architecture of imagenet is used.This function returns a Keras image classification model, optionally loaded with weights pre-trained on Imagenet.
 
-<img src="images/p3.png" alt="Project Pipeline" width="1500" height="800">
 
 ## No tumor and segmented tumor mask images
 <img src="images/p4.png" alt="Project Pipeline" width="1500" height="400">
@@ -59,11 +58,20 @@ For the classification purpose by using transfer learning efficientnetB1 archite
 <img src="images/p5.png" alt="Project Pipeline" width="1500" height="400">
 
 ## U-net Architecture for segmentation
+
+Segmentation is a process that partitions an image into regions, which allows the separation of objects and texture in images. In this project, a CNN based on UNet architecture is used for image segmentation. The segmentation process returns a mask which localizes the detected tumor in the input image
+
+U-Net is a successful architecture that allows us to perform pixel-wise segmentation. U-Net takes its name from the architecture, which when visualized, appears similar to the alphabet ’U’.
+
+U-Net is a convolutional neural network that was developed for biomedical image segmentation. UNet use to deal with biomedical images where the target is not only to classify whether there is an tumor or not but also to identify the area of tumor
+
 <img src="images/p11.png" alt="Project Pipeline" width="1500" height="400">
 
 ## Model Performance
 <img src="images/p12.png" alt="Project Pipeline" width="1000" height="400">
 
+## Segmentation results
+<img src="images/p13.png" alt="Project Pipeline" width="1500" height="1000">
 
 
 
