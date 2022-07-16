@@ -19,10 +19,14 @@ This dataset contains 7023 images of human brain MRI images which are classified
 
 Each MRI image is 1 channel Gray-scale image with dimension 512x512.
 
-## Glioma, Meningioma, Pituitary and No tumor MRI images)
+## Glioma, Meningioma, Pituitary and No tumor MRI images
 <img src="images/p3.png" alt="Project Pipeline" width="1500" height="800">
 
-## EfficientB1 Imagenet Architecture![image](https://user-images.githubusercontent.com/64846569/179366369-a56a56e2-261a-48e2-b3b0-a597fa7f4399.png)
+## EfficientB1 Imagenet Architecture
+<img src="images/p8.png" alt="Project Pipeline" width="1500" height="400">
+
+## Model Performance
+<img src="images/p9.png" alt="Project Pipeline" width="1000" height="400">
 
 
 
