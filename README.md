@@ -25,7 +25,7 @@ In the classification step, a Convolution Neural Network (CNN) model, based on I
 
 For the classification purpose by using transfer learning efficientnetB1 architecture of imagenet is used.This function returns a Keras image classification model, optionally loaded with weights pre-trained on Imagenet.
 
-<img src="images/p3.png" alt="Project Pipeline" width="1500" height="800">
+<img src="images/p3.png" alt="Project Pipeline" width="1500" height="600">
 
 ## EfficientB1 Imagenet Architecture
 <img src="images/p8.png" alt="Project Pipeline" width="1500" height="400">
