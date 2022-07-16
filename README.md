@@ -33,6 +33,37 @@ For the classification purpose by using transfer learning efficientnetB1 archite
 ## Model Performance
 <img src="images/p9.png" alt="Project Pipeline" width="1000" height="400">
 
+# 1. Brain Tumor Segmentation
+
+## Dataset
+
+[Brain Tumor Multiclass classification MRI Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation/)
+
+This dataset is taken from the Kaggle.
+This dataset contains 3940 images of human brain MRI and 3940 image mask corresponds to the MRI images
+Each MRI image is 3 channel RGB image with dimension 256x256x3
+
+
+## Glioma, Meningioma, Pituitary and No tumor MRI images
+In the classification step, a Convolution Neural Network (CNN) model, based on Imagenet architecture, is used to classify the MRI Brain scans into four classes Glioma, Meningioma, Pituitary and no tumor
+
+
+For the classification purpose by using transfer learning efficientnetB1 architecture of imagenet is used.This function returns a Keras image classification model, optionally loaded with weights pre-trained on Imagenet.
+
+<img src="images/p3.png" alt="Project Pipeline" width="1500" height="800">
+
+## No tumor and segmented tumor mask images
+<img src="images/p4.png" alt="Project Pipeline" width="1500" height="400">
+
+## MRI image with segmented mask
+<img src="images/p5.png" alt="Project Pipeline" width="1500" height="400">
+
+## U-net Architecture for segmentation
+<img src="images/p11.png" alt="Project Pipeline" width="1500" height="400">
+
+## Model Performance
+<img src="images/p12.png" alt="Project Pipeline" width="1000" height="400">
+
 
 
 
