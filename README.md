@@ -9,15 +9,20 @@
 
 <img src="images/pipeline.png" alt="Project Pipeline" width="1500" height="600">
 
-# Brain Tumor Multiclass Classification
+# 1. Brain Tumor Multiclass Classification
 
 ## Dataset
 
-[Brain Tumor Multiclass classificationDataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/)
+[Brain Tumor Multiclass classification MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/)
 
 #This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: Glioma, Meningioma, Pituitary and No tumor.\\
 
 #Each MRI image is 1 channel Gray-scale image with dimension 512x512.
+
+## Glioma, Meningioma, Pituitary and No tumor MRI images)
+<img src="images/p3.png" alt="Project Pipeline" width="1500" height="800">
+
+
 
 
 
