@@ -7,7 +7,7 @@
 # Project Pipeline
 !(images/pipeline.png)
 
-<img src="images/pipeline.png" alt="Project Pipeline" width="500" height="600">
+<img src="images/pipeline.png" alt="Project Pipeline" width="1500" height="600">
 
 
 
